@@ -1,0 +1,35 @@
+.App {
+  margin: 100px 100px 100px 100px;
+  text-align: left;
+}
+
+h1{
+  margin: 10px 10px 10px 10px;
+  font-weight: bold;
+}
+
+.task-container{
+  display: flex;
+  flex-direction: row;
+}
+
+.form{
+  margin: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  width: fit-content;
+  background-color: black;
+  color: white;
+  margin-bottom: 5px;
+}
+
+.stats{
+  margin: 10px 10px 10px 10px;
+}
+
+.task-input{
+  margin: 0px 10px 10px 0px;
+}
